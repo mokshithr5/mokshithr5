@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mokshithr5 
 - 😄 Pronouns: He/Him
-- 🌱 I’m Full Stack Developer
-- 📫 How to reach me  mokshithr005@gmail.com
+- 🌱 I’m a Full Stack Developer
+- 📫 How to reach me mokshithr005@gmail.com
 
 
 
